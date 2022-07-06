@@ -1,3 +1,3 @@
-Full version of a project completed for Coursera Specialized Models: Time Series and Survival Analysis course. The main objective of this project was to explore different time series modeling approaches, including ARIMA-based models, Facebook Prophet and LSTM Deep Learning approach, based on Household Energy consumption data Set obtained from UCI Machine Learning repository.
+Full version of my project completed for Coursera Specialized Models: Time Series and Survival Analysis course. The main objective of this project was to explore different time series modeling approaches, including ARIMA-based models, Facebook Prophet and LSTM Deep Learning approach, based on Household Energy consumption data Set obtained from UCI Machine Learning repository.
 
 Dataset: https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
